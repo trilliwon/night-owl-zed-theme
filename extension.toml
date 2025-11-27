@@ -1,0 +1,7 @@
+id = "night-owl"
+name = "Night Owl"
+description = "A VS Code theme for the night owls out there. Ported from Sarah Drasner's Night Owl theme."
+version = "0.1.0"
+schema_version = 1
+authors = ["Sarah Drasner <sdras>"]
+repository = "https://github.com/sdras/night-owl-vscode-theme"
